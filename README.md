@@ -11,4 +11,5 @@
 
 -[Atividade 6]( https://diuliendy.github.io/Atividade-6/)
 
+-[Atividade 7]( https://diuliendy.github.io/Atividade-7/)
 
